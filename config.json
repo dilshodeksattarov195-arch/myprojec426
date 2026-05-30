@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdetch",
+        "uuid": 1817316,
+        "checksum": "hpu4mb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
